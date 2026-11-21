@@ -1,0 +1,23 @@
+{
+  "overview": "This digital download is a concise script that answers the common question \"Can you recommend modeling software?\" with practical, up-to-date suggestions for beginners and hobbyists. It helps anyone who needs quick, actionable guidance without wading through ads or paywalls. Delivered as a plain-text file, it works offline and requires no account.",
+  "usecases": [
+    "A student asked to list 3D modeling tools for a class project and needs a ready answer.",
+    "A small business owner preparing a FAQ page wants a neutral recommendation blurb.",
+    "A maker in a makerspace Slack thread needs a quick copy-paste reply to newcomers."
+  ],
+  "howto": [
+    "Download the file and unzip if needed.",
+    "Open the script in any text editor or terminal.",
+    "Read or paste the recommendation into your conversation."
+  ],
+  "faq": [
+    {
+      "q": "Is this tailored to my specific industry?",
+      "a": "It offers general recommendations, so you may need to adapt for niche workflows."
+    },
+    {
+      "q": "Does it require internet or a subscription?",
+      "a": "No, it's a one-time download with no signup or recurring fees."
+    }
+  ]
+}
