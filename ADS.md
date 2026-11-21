@@ -28,6 +28,18 @@ Source: https://news.ycombinator.com/item?id=33711991
 Draft:
 "Hey — saw your post about Ask HN: Can you recommend modeling software?. I built a small tool for exactly that: A practical answer to a real request: Can you recommend modeling software?. No signup, $7. Here it is if useful: https://LinuxGuru999.github.io/shotgun-can-you-recommend-modeling-software/"
 
+## Directory listing (Product Hunt / Uneed / Peerlist / SaaSHub)
+Name: Can you recommend modeling software
+Tagline: A practical answer to a real request: Can you recommend modeling software?
+Description: A practical answer to a real request: Can you recommend modeling software? Built for general, with no account or subscription required.
+One-line pitch: A practical answer to a real request: Can you recommend modeling software? No signup, $7, instant download.
+Link: https://LinuxGuru999.github.io/shotgun-can-you-recommend-modeling-software/
+
+## Email / DM (warm list)
+Subject: A small tool for general
+Body: Hey — I made Can you recommend modeling software because a practical answer to a real request: can you recommend modeling software?. No signup, $7, instant download. If it's useful: https://LinuxGuru999.github.io/shotgun-can-you-recommend-modeling-software/. If not, tell me what you actually need.
+
 ## Notes
 - Post manually from your own account; do not mass-post.
 - Space posts 2-3 days apart and tailor the tone.
+- Add ?src=<portal> to the storefront URL to attribute traffic.
